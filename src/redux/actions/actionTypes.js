@@ -1,0 +1,3 @@
+export const SEARCH_MOVIE="SEARCH_MOVIE";
+export const ADD_FAVORITES="ADD_FAVORITES"
+export const DEL_FAVORITE="DEL_FAVORITE"
